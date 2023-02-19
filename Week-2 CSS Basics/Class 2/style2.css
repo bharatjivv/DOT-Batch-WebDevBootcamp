@@ -1,0 +1,46 @@
+/* .box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+.box2 {
+    margin: 100px 100px 100px 100px;
+    border: 2px solid black;
+    max-height: 300px;
+    max-width: 300px;
+    overflow: auto;
+}
+
+.box3 {
+    border: 2px solid black;
+    min-height: 100px;
+    min-width: 100px;
+    max-width: 200px;
+} */
+
+.wrapper {
+    height: 1000px;
+    width: 1000px;
+    background-color: yellowgreen;
+}
+
+.box {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+#box3 {
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+
+#box1 {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+}

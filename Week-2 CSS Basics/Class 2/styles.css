@@ -1,0 +1,30 @@
+.box {
+    border: 1px solid black;
+    height: 200px;
+    width: 150px;
+    background-image: linear-gradient(to bottom right, red, blue);
+}
+
+.boxe {
+    border: 1px solid black;
+    height: 200px;
+    width: 150px;
+    background-image: linear-gradient(red, blue);
+}
+
+h1 {
+    text-shadow: 3px 3px 3px blue;
+    text-shadow: 3px 3px 3px green, 3px 3px 3px blue;
+}
+
+.box-dim {
+    max-height: 100px;
+    border: 1px solid black;
+    overflow: scroll;
+}
+
+.mydive {
+    margin: 10px;
+    min-height: 100px;
+    border: 1px solid black;
+}
