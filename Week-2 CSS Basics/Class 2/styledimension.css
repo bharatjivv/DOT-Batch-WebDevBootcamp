@@ -1,0 +1,15 @@
+/* max-height, max-width, min-height, min-width */
+
+.box-dim {
+    max-height: 100px;
+    background-color: rgb(149, 222, 222);
+    border: 1px solid black;
+    overflow: scroll;
+}
+
+.mydive {
+    border: 1px solid black;
+    background-color: rgb(208, 145, 145);
+    max-height: 500px;
+    overflow: scroll;
+}

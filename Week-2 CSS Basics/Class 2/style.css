@@ -5,7 +5,7 @@
     background-color: aqua;
     border: 1px solid black;
 }
-
+ 
 
 #box3 {
     position: relative;
@@ -47,5 +47,7 @@ div {
 }
 
 .scaled {
-    transform: perspective(350px) scaleZ(2);
+    margin-left: 200px;
+    transform: rotateZ(30deg);
+    /* transform: perspective(350px) scaleZ(2); */
 }

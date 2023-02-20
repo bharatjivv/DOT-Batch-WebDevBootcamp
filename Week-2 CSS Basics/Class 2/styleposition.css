@@ -1,0 +1,35 @@
+/* p {
+    /* By default position is static 
+    position: static;
+} 
+*/
+
+.wrapper {
+    height: 1000px;
+    width: 1000px;
+    background-color: yellow;
+}
+
+div {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+#box3 {
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+
+#box1 {
+    position: fixed;
+    left: 50px;
+}
+
+#box4 {
+    position: sticky;
+    top: 0px;
+}
