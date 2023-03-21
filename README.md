@@ -1,6 +1,12 @@
 # My Code Dump
 
-This repository contains a collection of code snippets and scripts that I've written over the time in my web-dev journey. The code is organized into folders based on the classes or technology used.
+This repository contains a collection of code snippets and scripts that I've written over the time in my web-dev journey. The code is organized into folders based on the weeks and the technology used.
+
+Each folder is further sub-divided into Classes, Homeworks, Project and Handwritten Notes.
+
+In order to Navigate efficiently to a specific part, Select the Week number > Select any ( Codes, Handwritten notes or Projects ) > Enjoy!
+
+
 
 ## Contents
 
