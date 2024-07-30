@@ -11,7 +11,7 @@ const userInfoContainer = document.querySelector(".user-info-container");
 // variables required 
 
 let currentTab = userTab;
-const API_KEY = "b6a9bc4abec1f1a9b55adb749f378d26";
+const API_KEY = "";
 currentTab.classList.add("current-tab");
 getfromSessionStorage();
 //functionality of usertab and searchtab
