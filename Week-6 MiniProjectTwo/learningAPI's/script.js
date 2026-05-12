@@ -1,7 +1,5 @@
 console.log("Let's get started");
 
-const API_KEY = "b6a9bc4abec1f1a9b55adb749f378d26";
-
 async function fetchWeatherDetails(){
 
     try {
